@@ -1,4 +1,4 @@
-jBar
+bounceThis
 ====
 
-jBar, the lightweight jQuery notification plugin
+bounceThis jQuery Plugin, mimics CSS3 keyframe animations for bouncing headers.
