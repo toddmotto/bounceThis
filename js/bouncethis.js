@@ -1,9 +1,9 @@
 /*
-	Bounce(this) v1.0.0
+	bounceThis v1.0.0
 	by Todd Motto: http://www.toddmotto.com
 	Latest version: https://github.com/toddmotto/bounceThis
 
-	BounceThis jQuery Plugin, super simple bouncing headers.
+	bounceThis jQuery Plugin, mimics CSS3 keyframe animations for bouncing headers.
 */
 ;(function($) {
 		
